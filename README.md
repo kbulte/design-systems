@@ -10,6 +10,8 @@ The purpose of the design system is to solve inconsistencies in most importantly
 
 Design systems are essential for building better, faster, and more cohesive digital products and experiences at scale, with respect to accessibility and brand identity.
 
+![Design system](./Design%20systems.png)
+
 # Related terms
 Other design system related terms that might need clarification.
 
