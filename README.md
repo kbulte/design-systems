@@ -99,3 +99,4 @@ There is no industry wide definition for this and people use the terms design sy
 | Vaadin | ✅ | | | | | | |
 | Clarity | ✅ | | | | | | |
 | Ionic | | ✅ | | | | | |
+| Material web | ✅ | | | | | | |
