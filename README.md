@@ -46,7 +46,7 @@ There is no industry wide definition for this and people use the terms design sy
 - [design.systems](https://design.systems/)
 - [atomic design](https://atomicdesign.bradfrost.com/)
 - [Emma Bostian's beginner guide](https://fem-design-systems.netlify.app/)
-- [Design systems repo](https://designsystemsrepo.com/)
+- [design systems repo](https://designsystemsrepo.com/)
 - [backlight](https://backlight.dev/docs)
 - [spotify design](https://spotify.design/article/5-things-i-wish-id-known-before-starting-a-design-system-at-spotify)
 
