@@ -25,7 +25,7 @@ A library of UI patterns or reusable design solutions to solve reoccurring desig
 A component library is the set of reusable components which turn the design language and UI Kit into living, breathing code.
 
 ## design tokens
-A design token is an abstraction of a visual property such as color, font, width, animation, etc. Design tokens are shared across Design/UI Kits and component libraries for a cohesive experience. Design tokens originated at Salesforce where Jina Anne coined the term. In the most basic form these are just css variables in the component library. Other ways to structure design tokens [Open props](https://open-props.style/) or System UI.
+A design token is an abstraction of a visual property such as color, font, spacing, animation, etc. Design tokens are shared across Design/UI Kits and component libraries for a cohesive experience. Design tokens originated at Salesforce where Jina Anne coined the term. In the most basic form these are just css variables in the component library. Other ways to structure design tokens [Open props](https://open-props.style/) or System UI. A [W3C community group](https://github.com/design-tokens/community-group) is currently working on a specification for design tokens
 
 ## design assets
 Design assets are part of the design language and can be more static reusable elements like logo's, icons, illustrations, photography and videos.
