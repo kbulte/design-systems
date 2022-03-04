@@ -75,6 +75,7 @@ There is no industry wide definition for this and people use the terms design sy
 - [Polaris](https://polaris.shopify.com/) (Polaris)
 - Hawkins (Netflix)
 - [GEL](https://www.bbc.co.uk/gel) (BBC)
+- [Auro](https://auro.alaskaair.com/) (Alaskan Airlines)
 
 # Component libraries built on web components
 - [Shoelace](https://shoelace.style/) (Open source)
@@ -84,6 +85,7 @@ There is no industry wide definition for this and people use the terms design sy
 - [Lightning web components](https://developer.salesforce.com/docs/component-library/documentation/en/lwc) (Salesforce)
 - [Ionic](https://ionicframework.com/) (Ionic)
 - [Elix](https://github.com/elix/elix) (Elix)
+- [Clever components](https://github.com/CleverCloud/clever-components) (Clever Cloud)
 
 | Component library | [Lit](https://lit.dev/) | [Stencil](https://stenciljs.com/) | [Vanillajs](https://github.com/WICG/webcomponents) | [Fast](https://www.fast.design/) | [Atomico](https://atomicojs.github.io/) | [Haunted](https://github.com/matthewp/haunted) | [Hybrids](https://hybrids.js.org/#/) |
 | --- | :---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -103,3 +105,5 @@ There is no industry wide definition for this and people use the terms design sy
 | Ionic | | ✅ | | | | | |
 | Material web | ✅ | | | | | | |
 | Elix | | | ✅ | | | | |
+| Clever components | ✅ | | | | | | |
+| Auro | ✅ | | | | | | |
