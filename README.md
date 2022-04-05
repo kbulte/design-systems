@@ -61,6 +61,7 @@ There is no industry wide definition for this and people use the terms design sy
 - [Vaadin design system](https://vaadin.com/design-system) (Vaadin)
 - [Clarity](https://clarity.design/) (VMware)
 - [Formilk](https://github.com/atomicojs/formilk) (Open source)
+- [Nord](https://nordhealth.design/) (Nordhealth)
 - [Backlight sample design systems](https://backlight.dev/docs/design-system-examples) (Backlight)
 
 # Design systems built on JS frameworks (React, Vue, Svelte, ...)
@@ -107,3 +108,4 @@ There is no industry wide definition for this and people use the terms design sy
 | Elix | | | ✅ | | | | |
 | Clever components | ✅ | | | | | | |
 | Auro | ✅ | | | | | | |
+| Nord | ✅ | | | | | | |
