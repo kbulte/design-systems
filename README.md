@@ -63,6 +63,7 @@ There is no industry wide definition for this and people use the terms design sy
 - [Formilk](https://github.com/atomicojs/formilk) (Open source)
 - [Nord](https://nordhealth.design/) (Nordhealth)
 - [Backlight sample design systems](https://backlight.dev/docs/design-system-examples) (Backlight)
+- [Astro](https://www.astrouxds.com/) (United States Space Force and Missile System Center)
 
 # Design systems built on JS frameworks (React, Vue, Svelte, ...)
 - [Atlassian design system](https://atlassian.design/) (Atlassian)
@@ -109,3 +110,4 @@ There is no industry wide definition for this and people use the terms design sy
 | Clever components | ✅ | | | | | | |
 | Auro | ✅ | | | | | | |
 | Nord | ✅ | | | | | | |
+| Astro | | ✅ | | | | | |
