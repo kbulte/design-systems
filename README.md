@@ -49,7 +49,8 @@ There is no industry wide definition for this and people use the terms design sy
 - [design systems repo](https://designsystemsrepo.com/)
 - [backlight](https://backlight.dev/docs)
 - [spotify design](https://spotify.design/article/5-things-i-wish-id-known-before-starting-a-design-system-at-spotify)
-- [Component pattern gallery](https://component.gallery/components/)
+- [component pattern gallery](https://component.gallery/components/)
+
 # Design systems built on web components
 - [Group UI](https://volkswagen.frontify.com/d/rzB71PwpjXgt) (Volkswagen)
 - [Material You](https://material.io/) (Google)
